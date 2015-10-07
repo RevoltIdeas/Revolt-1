@@ -1,2 +1,3 @@
-# Revolt
-Revolt Inc. Project Files
+# Welcome to Revolt...
+Here is where we will be uploading software and anything Revolt related.
+Think Crazy.
